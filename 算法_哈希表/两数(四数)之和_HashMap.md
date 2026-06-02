@@ -18,4 +18,5 @@ map.getOrDefault(1, 0);
 map.containsKey(1);
 ```
 
-- **题解已发布**：[https://leetcode.cn/problems/two-sum/solutions/3968640/meng-kai-shi-de-di-fang-javajie-fa-by-fl-amlv](两数之和题解)
+- **两数之和题解已发布**：[两数之和](https://leetcode.cn/problems/two-sum/solutions/3968640/meng-kai-shi-de-di-fang-javajie-fa-by-fl-amlv)
+- **四数之和**：[四数之和](https://leetcode.cn/problems/4sum-ii/solutions/3970879/javajie-fa-shi-yong-hashmap-by-flamboyan-3l2f)
